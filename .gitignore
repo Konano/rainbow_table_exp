@@ -1,0 +1,7 @@
+data/
+data.tar.gz
+archive/
+__pycache__/
+shared_mem
+salt
+progress
